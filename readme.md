@@ -1,6 +1,6 @@
 # Latent Sound Transfer with Music2Latent
 
-This repository demonstrates a workflow inspired by the paper *"Latent Granular Resynthesis using Neural Audio Codecs"* by Nao Tokui et al. The goal is to transfer characteristics of ambient sounds (e.g., ocean waves) onto a source sound (e.g., a guitar) using latent embeddings from Music2Latent.
+This repository demonstrates a workflow inspired by the paper *"Latent Granular Resynthesis using Neural Audio Codecs"* by Nao Tokui et al. The goal is to transfer characteristics of ambient sounds (e.g., ocean waves) onto a source sound (e.g., a guitar) using latent embeddings from [Music2Latent](https://github.com/SonyCSLParis/music2latent).
 
 ## Concept Overview
 
@@ -16,6 +16,20 @@ This repository demonstrates a workflow inspired by the paper *"Latent Granular 
 
 ## Diagram
 
+<img width="2294" height="2791" alt="scheme" src="https://github.com/user-attachments/assets/5c31a093-fd78-4e33-8215-085b73d2499e" />
+
+---
+
+## Results
+
+Source:
+[source.wav](https://github.com/user-attachments/files/23834385/source.wav)
+
+Translated:
+[translated.wav](https://github.com/user-attachments/files/23834387/translated.wav)
+
+Combined (dry 20%):
+[combined.wav](https://github.com/user-attachments/files/23834388/combined.wav)
 
 ---
 
@@ -35,6 +49,6 @@ This repository demonstrates a workflow inspired by the paper *"Latent Granular 
 
 ## References
 
-- Paper: *Latent Granular Resynthesis using Neural Audio Codecs*  
-- Project Lydia (example optimization): [YouTube link to be added]  
-- Music2Latent paper and GitHub repository
+- Paper: [*Latent Granular Resynthesis using Neural Audio Codecs* ](https://arxiv.org/abs/2507.19202) 
+- [Project Lydia](https://youtu.be/D1hwf0Ih55s?si=Ub-yCyUJRYNAxZlq)
+- Paper: [*Music2Latent2: Audio Compression with Summary Embeddings and Autoregressive Decoding* ](https://arxiv.org/abs/2501.17578) 
