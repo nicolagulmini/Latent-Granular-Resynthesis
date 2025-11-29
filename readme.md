@@ -51,4 +51,4 @@ Combined (dry 20%):
 
 - Paper: [*Latent Granular Resynthesis using Neural Audio Codecs* ](https://arxiv.org/abs/2507.19202) 
 - [Project Lydia](https://youtu.be/D1hwf0Ih55s?si=Ub-yCyUJRYNAxZlq)
-- Paper: [*Music2Latent2: Audio Compression with Summary Embeddings and Autoregressive Decoding* ](https://arxiv.org/abs/2501.17578) 
+- Paper: [*Music2Latent: Consistency Autoencoders for Latent Audio Compression* ](https://arxiv.org/abs/2408.06500) 
