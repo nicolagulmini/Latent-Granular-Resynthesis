@@ -1,6 +1,6 @@
 # Latent Sound Transfer with Music2Latent
 
-[GUARDA IL VIDEO (in Italiano) su YouTube](https://youtu.be/f4KrZ-HUHnk)
+[GUARDA IL VIDEO su YouTube](https://youtu.be/f4KrZ-HUHnk)
 
 This repository demonstrates a workflow inspired by the paper *"Latent Granular Resynthesis using Neural Audio Codecs"* by Nao Tokui et al. The goal is to transfer characteristics of ambient sounds (e.g., ocean waves) onto a source sound (e.g., a guitar) using latent embeddings from [Music2Latent](https://github.com/SonyCSLParis/music2latent).
 
